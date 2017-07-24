@@ -5,7 +5,7 @@ using AddingTwoNumbers;
 namespace AddingTwoNumbersUnitTestProject
 {
     [TestClass]
-    public class UnitTest
+    public class UnitTests
     {
         [TestMethod]
         public void TestMethod1()
